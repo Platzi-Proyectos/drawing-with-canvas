@@ -1,2 +1,10 @@
-# Drawing-with-canvas
-DOM; functions, while and for in JS.
+# Drawing with canvas ✍️
+
+How to use this project?
+
+## Step 1: Clone the project.
+
+`git clone`
+
+
+
